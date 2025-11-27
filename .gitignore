@@ -3,6 +3,7 @@
 venv/
 .env.*
 
+
 # PYTHON CACHE
 __pycache__/
 *.pyc
@@ -27,3 +28,6 @@ ENV/
 # BUILD FILES
 dist/
 build/
+
+.env
+
