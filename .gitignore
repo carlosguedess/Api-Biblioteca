@@ -1,0 +1,29 @@
+# ENVIRONMENT
+.env
+venv/
+.env.*
+
+# PYTHON CACHE
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE / EDITOR
+.vscode/
+.idea/
+
+# LOGS
+*.log
+
+# SYSTEM FILES
+.DS_Store
+Thumbs.db
+
+# PYTHON VENV
+env/
+ENV/
+
+# BUILD FILES
+dist/
+build/
